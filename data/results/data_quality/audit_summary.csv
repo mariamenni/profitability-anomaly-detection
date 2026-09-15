@@ -1,0 +1,18 @@
+﻿Contrôle,Résultat
+Nombre de lignes,74888.0
+Nombre de colonnes,15.0
+Valeurs manquantes,314174.0
+Taux global de valeurs manquantes (%),27.97
+EAN manquants,164.0
+Doublons exacts,0.0
+Doublons métier,0.0
+Années non attendues,0.0
+Mois non conformes,0.0
+Prix négatifs,86.0
+Prix nuls,20.0
+Marges > 100 %,111.0
+Marges < -100 %,246.0
+Valeurs manquantes dans la hiérarchie,0.0
+EAN avec >= 12 mois d'historique,2728.0
+EAN avec historique incomplet,1907.0
+Familles avec incohérence hiérarchique,0.0

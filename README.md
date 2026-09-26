@@ -96,7 +96,7 @@ Sur la population réelle analysée :
 - **68 324 observations** ;
 - **1 663 signaux issus des règles métier** ;
 - **3 417 observations dans le Top 5 % ML** ;
-- **222 doubles signaux** règle métier + ML ;
+- **316 doubles signaux** règle métier + ML ;
 - **4 858 observations dans le périmètre d’attention**, soit **7,11 %** de la population.
 
 La priorisation finale distingue les observations **Critiques**, **À surveiller** et **Normales**. Le périmètre d’attention est destiné à faciliter l’investigation et ne constitue pas un taux d’anomalies avérées.
